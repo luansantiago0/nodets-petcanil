@@ -12,7 +12,7 @@ Project made simulating a petshop
 
 ### Installation of types and dependencies if you create the project from scratch
 
- `npm install express mustache-express dotenv` (only install mustache if the front goes together with the back)
+  `npm install express mustache-express dotenv` (only install mustache if the front goes together with the back)
  `npm install --save-dev @types/express @types/mustache-express @types/node`
 
 ### To run the project
